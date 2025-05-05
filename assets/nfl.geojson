@@ -1,0 +1,581 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.787,42.774 ]
+    },
+    "properties": {
+    "team":"Buffalo Bills",
+    "stadium":"Highmark Stadium",
+    "record":"13 wins - 4 losses",
+    "rival":"Miami Dolphins/New England Patriots",
+    "history":"AFL team famous for four consecutive Super Bowl appearances (1990-1993).",
+    "division":"AFC East",
+    "year":1960,
+    "superbowls":0,
+    "topplayers":"Josh Allen (QB), Khalil Shakir (WR), James Cook (RB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.23889,25.958055 ]
+    },
+    "properties": {
+    "team":"Miami Dolphins",
+    "stadium":"Hard Rock Stadium",
+    "record":"8 wins - 9 losses",
+    "rival":"Buffalo Bills",
+    "history":"Only team to complete a perfect season (1972); won two Super Bowls.",
+    "division":"AFC East",
+    "year":1966,
+    "superbowls":2,
+    "topplayers":"Tyreek Hill (WR), Tua Tagovailoa (QB), Jalen Waddle (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.264,42.091 ]
+    },
+    "properties": {
+    "team":"New England Patriots",
+    "stadium":"Glilette Stadium",
+    "record":"4 wins - 13 losses",
+    "rival":"Buffalo Bills",
+    "history":"Dominated the 2000s and 2010s under Tom Brady and Bill Belichick.",
+    "division":"AFC East",
+    "year":1959,
+    "superbowls":6,
+    "topplayers":"Drake Maye (QB), Christian Gonzalez (CB), Hunter Henry (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.07426907,40.8135655 ]
+    },
+    "properties": {
+    "team":"New York Jets",
+    "stadium":"Met Life Stadium",
+    "record":"5 wins - 12 losses",
+    "rival":"New England Patriots",
+    "history":"Won Super Bowl III behind Joe Namath's famous guarantee.",
+    "division":"AFC East",
+    "year":1960,
+    "superbowls":1,
+    "topplayers":"Sauce Gardner (CB), Breece Hall (RB), Justin Fields (QB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.01583,40.446667 ]
+    },
+    "properties": {
+    "team":"Pittsburgh Steelers",
+    "stadium":"Acrisure Stadium",
+    "record":"10 wins - 7 losses",
+    "rival":"Baltimore Ravens",
+    "history":"One of the most successful franchises, winning six Super Bowls.",
+    "division":"AFC North",
+    "year":1933,
+    "superbowls":6,
+    "topplayers":"DK Metcalf (WR), TJ Watt (OLB), Minkah Fitzpatrick (S)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.62278,39.278057 ]
+    },
+    "properties": {
+    "team":"Baltimore Ravens",
+    "stadium":"M&T Bank Stadium",
+    "record":"12 wins - 5 losses",
+    "rival":"Pittsburgh Steelers",
+    "history":"Founded after the Cleveland Browns relocated; won Super Bowls in 2000 and 2012.",
+    "division":"AFC North",
+    "year":1996,
+    "superbowls":2,
+    "topplayers":"Lamar Jackson (QB), Roquan Smith (MLB), Kyle Hamilton (SS)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.69945,41.50611 ]
+    },
+    "properties": {
+    "team":"Cleveland Browns",
+    "stadium":"Cleveland Browns Stadium",
+    "record":"3 wins - 14 losses",
+    "rival":"Pittsburgh Steelers",
+    "history":"Originally in the AAFC, later joined the NFL; known for passionate fans and historic players.",
+    "division":"AFC North",
+    "year":1946,
+    "superbowls":0,
+    "topplayers":"Myles Garrett (DE), Denzel Ward (CB), Jerry Jeudy (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.516,39.095 ]
+    },
+    "properties": {
+    "team":"Cincinnati Bengals ",
+    "stadium":"Paycor Stadium",
+    "record":"9 wins - 8 losses",
+    "rival":"Cleveland Browns",
+    "history":"Created by Paul Brown; reached three Super Bowls but still seeking their first win.",
+    "division":"AFC North",
+    "year":1968,
+    "superbowls":0,
+    "topplayers":"Joe Burrow (QB), Jamar Chase (WR), Trey Hendrickson (DE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.410835,29.684723 ]
+    },
+    "properties": {
+    "team":"Houston Texans",
+    "stadium":"NRG Stadium ",
+    "record":"10 wins - 7 losses",
+    "rival":"Tennessee Titans/Dallas Cowboys",
+    "history":"NFL's youngest franchise; still seeking their first Super Bowl appearance.",
+    "division":"AFC South",
+    "year":2002,
+    "superbowls":0,
+    "topplayers":"CJ Stroud (QB), Nico Collins (WR), Derek Stingley Jr. (CB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.771385,36.16639 ]
+    },
+    "properties": {
+    "team":"Tennessee Ttitans",
+    "stadium":"Nissan Stadium",
+    "record":"3 wins - 14 losses",
+    "rival":"Houston Texans",
+    "history":"Started as the Houston Oilers; reached Super Bowl XXXIV but lost.",
+    "division":"AFC South",
+    "year":1960,
+    "superbowls":0,
+    "topplayers":"Cam Ward (QB), L'Jarius Sneed (CB), Calvin Riddley (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6375,30.323889 ]
+    },
+    "properties": {
+    "team":"Jacksonville Jagaurs ",
+    "stadium":"EverBank Stadium",
+    "record":"4 wins - 13 losses",
+    "rival":"Tennessee Titans",
+    "history":"Expansion team known for early playoff success in the late 1990s.",
+    "division":"AFC South",
+    "year":1960,
+    "superbowls":0,
+    "topplayers":"Brian Thomas Jr. (WR), Travis Hunter (WR/CB), Josh Hines-Allen (OLB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.16362426,39.75971376 ]
+    },
+    "properties": {
+    "team":"Indianapolis Colts ",
+    "stadium":"Lucas Oil Stadium",
+    "record":"8 wins - 9 losses",
+    "rival":"Tennessee Titans",
+    "history":"Originally the Baltimore Colts; won Super Bowls in 1970 and 2006.",
+    "division":"AFC South",
+    "year":1953,
+    "superbowls":2,
+    "topplayers":"Michael Pittman Jr. (WR), DeForest Buckner (DT), Quenton Nelson (LG)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.02,39.74389 ]
+    },
+    "properties": {
+    "team":"Denver Broncos",
+    "stadium":"Empower Field at Mile High",
+    "record":"10 wins - 7 losses",
+    "rival":"Kansas City Chiefs",
+    "history":"Won three Super Bowls, including Peyton Manning's final season in 2015.",
+    "division":"AFC West",
+    "year":1960,
+    "superbowls":3,
+    "topplayers":"Bo Nix (QB), Patrick Surtain II (CB), Nick Bonitto (OLB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.18389,36.090557 ]
+    },
+    "properties": {
+    "team":"Las Vegas Raiders",
+    "stadium":"Allegiant Stadium",
+    "record":"4 wins - 13 losses",
+    "rival":"Kansas City Chiefs",
+    "history":"Originally in Oakland, then Los Angeles, then back to Oakland, now in Vegas; won three Super Bowls.",
+    "division":"AFC West",
+    "year":1960,
+    "superbowls":3,
+    "topplayers":"Geno Smith (QB), Ashton Jeanty (RB), Brock Bowers (TE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.48389,39.04889 ]
+    },
+    "properties": {
+    "team":"Kansas City Chiefs",
+    "stadium":"Arrowhead Stadium",
+    "record":"15 wins - 2 losses",
+    "rival":"Las Vegas Raiders",
+    "history":"AFL powerhouse; recent dynasty with Patrick Mahomes, winning multiple Super Bowls.",
+    "division":"AFC West",
+    "year":1960,
+    "superbowls":3,
+    "topplayers":"Patrick Mahomes (QB), Travis Kelcie (TE), Chris Jones (DT)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.340,33.953 ]
+    },
+    "properties": {
+    "team":"LA Chargers",
+    "stadium":"SoFi Stadium",
+    "record":"11 wins- 6 losses",
+    "rival":"Las Vegas Raiders",
+    "history":"AFL team known for high-powered offenses; moved from San Diego in 2017.",
+    "division":"AFC West",
+    "year":1960,
+    "superbowls":0,
+    "topplayers":"Justin Herbert (QB), Derwin James Jr. (S), Khalil Mack (DE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.07436907,40.8134655 ]
+    },
+    "properties": {
+    "team":"New York Giants",
+    "stadium":"Met Life Stadium",
+    "record":"5 wins - 12 losses",
+    "rival":"Philadelphia Eagles",
+    "history":"Won four Super Bowls, including dramatic victories over the Patriots.",
+    "division":"NFC East",
+    "year":1925,
+    "superbowls":4,
+    "topplayers":"Brian Burns (OLB), Dexter Lawerance (DT), Andrew Thomas (OT)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.09278,32.747776 ]
+    },
+    "properties": {
+    "team":"Dallas Cowboys",
+    "stadium":"AT&T Stadium",
+    "record":"7 wins - 10 losses",
+    "rival":"Philadelphia Eagles",
+    "history":"'America's Team'; won five Super Bowls and built a massive fan base.",
+    "division":"NFC East",
+    "year":1960,
+    "superbowls":5,
+    "topplayers":"Ceedee Lamb (WR), Micah Parsons (DE), Dak Prescott (QB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1675,39.900833 ]
+    },
+    "properties": {
+    "team":"Philadelphia Eagles",
+    "stadium":"Lincoln Financial Field",
+    "record":"14 wins - 3 losses",
+    "rival":"Dallas Cowboys/New York Giants",
+    "history":"Won their first Super Bowl in 2017 behind Nick Foles.",
+    "division":"NFC East",
+    "year":1933,
+    "superbowls":2,
+    "topplayers":"Jalen Hurts (QB), Saquon Barkley (RB), A.J. Brown (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.86444,38.907776 ]
+    },
+    "properties": {
+    "team":"Washington Commanders",
+    "stadium":"Northwest Stadium",
+    "record":"12 wins - 5 losses",
+    "rival":"Dallas Cowboys",
+    "history":"Formerly Redskins; won three Super Bowls but have struggled in recent years.",
+    "division":"NFC East",
+    "year":1932,
+    "superbowls":3,
+    "topplayers":"Jayden Daniels (QB), Terry Mclaurin (WR), Brian Robinson Jr. (RB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.045555,42.34 ]
+    },
+    "properties": {
+    "team":"Detroit Lions",
+    "stadium":"Ford Field",
+    "record":"15 wins - 2 losses",
+    "rival":"Green Bay Packers",
+    "history":"Four-time NFL champions but still seeking their first Super Bowl win.",
+    "division":"NFC North",
+    "year":1930,
+    "superbowls":0,
+    "topplayers":"Penei Sewell (OT), Amon-Ra St. Brown (WR), Jahmyr Gibbs (RB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.258,44.974 ]
+    },
+    "properties": {
+    "team":"Minnesota Vikings",
+    "stadium":"U.S. Bank Stadium",
+    "record":"14 wins - 3 losses",
+    "rival":"Green Bay Packers",
+    "history":"Reached four Super Bowls but never won; known for strong defenses.",
+    "division":"NFC North",
+    "year":1961,
+    "superbowls":0,
+    "topplayers":"Justin Jefferson (WR), Jordan Addison (WR), T.J. Hockenson (TE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.062225,44.50139 ]
+    },
+    "properties": {
+    "team":"Green Bay Packers",
+    "stadium":"Lambeau Field",
+    "record":"11 wins- 6 losses",
+    "rival":"Chicago Bears",
+    "history":"Historic franchise with 13 championships, including four Super Bowls.",
+    "division":"NFC North",
+    "year":1919,
+    "superbowls":4,
+    "topplayers":"Jordan Love (QB), Rashan Gary (OLB), Jayden Reed (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6167,41.8623 ]
+    },
+    "properties": {
+    "team":"Chicago Bears",
+    "stadium":"Soldier Field ",
+    "record":"5 wins - 12 losses",
+    "rival":"Green Bay Packers",
+    "history":"One of the oldest teams; won Super Bowl XX with the legendary 1985 defense.",
+    "division":"NFC North",
+    "year":1920,
+    "superbowls":1,
+    "topplayers":"Caleb Williams (QB), D.J. Moore (WR), Jaylon Johnson (CB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.08111,29.950832 ]
+    },
+    "properties": {
+    "team":"New Orleans Saints",
+    "stadium":"Ceasers Superdome",
+    "record":"5 wins - 12 losses",
+    "rival":"Atlanta Falcons",
+    "history":"Won their first Super Bowl in 2009 behind Drew Brees.",
+    "division":"NFC South",
+    "year":1967,
+    "superbowls":1,
+    "topplayers":"Alvin Kamara (RB), Taysom Hill (QB/TE/FB), Derek Carr (QB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.503334,27.975834 ]
+    },
+    "properties": {
+    "team":"Tampa Bay Buccaneers",
+    "stadium":"Raymond James Stadium",
+    "record":"10 wins - 7 losses",
+    "rival":"Atlanta Falcons",
+    "history":"Won two Super Bowls, including Tom Brady's 2020 victory.",
+    "division":"NFC South",
+    "year":1976,
+    "superbowls":2,
+    "topplayers":"Baker Mayfield (QB), Mike Evans (WR), Bucky Irving (RB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4,33.755554 ]
+    },
+    "properties": {
+    "team":"Atlanta Falcons",
+    "stadium":"Mercedes-Benz Stadium",
+    "record":"8 wins - 9 losses",
+    "rival":"New Orleans Saints",
+    "history":"Reached two Super Bowls but lost both, including the infamous 28-3 collapse.",
+    "division":"NFC South",
+    "year":1966,
+    "superbowls":0,
+    "topplayers":"Bijan Robinson (RB), Jesse Bates III (SS), Drake London (WR)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.852776,35.225834 ]
+    },
+    "properties": {
+    "team":"Carolina Panthers",
+    "stadium":"Bank of America Stadium",
+    "record":"5 wins - 12 losses",
+    "rival":"Tampa Bay Buccaneers",
+    "history":"Expansion team that reached two Super Bowls but lost both.",
+    "division":"NFC South",
+    "year":1995,
+    "superbowls":0,
+    "topplayers":"Bryce Young (QB), Jaycee Horn (CB), Chuba Hubbard (RB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3316,47.5952 ]
+    },
+    "properties": {
+    "team":"Seattle Seahawks",
+    "stadium":"Lumen Field",
+    "record":"10 wins - 7 losses",
+    "rival":"San Francisco 49ers",
+    "history":"Won their first Super Bowl in 2013 with the 'Legion of Boom' defense.",
+    "division":"NFC West",
+    "year":1976,
+    "superbowls":1,
+    "topplayers":"Sam Darnold (QB), Cooper Kupp (WR), Kenneth Walker III (RB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.263,33.528 ]
+    },
+    "properties": {
+    "team":"Arizona Cardinals",
+    "stadium":"State Farm Stadium",
+    "record":"8 wins - 9 losses",
+    "rival":"Seattle Seahawks/San Francisco 49ers",
+    "history":"Originally in Chicago, then St. Louis, now Arizona; reached Super Bowl XLIII but lost.",
+    "division":"NFC West",
+    "year":1920,
+    "superbowls":0,
+    "topplayers":"Kyler Murray (QB), Budda Baker (S), Trey McBride (TE)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.339,33.953 ]
+    },
+    "properties": {
+    "team":"LA Rams",
+    "stadium":"SoFi Stadium",
+    "record":"10 wins - 7 losses",
+    "rival":"San Franscisco 49ers",
+    "history":"Won multiple championships, including Super Bowl LVI in 2022.",
+    "division":"NFC West",
+    "year":1936,
+    "superbowls":2,
+    "topplayers":"Puka Nucua (WR), Kyren Williams (RB), Matthew Stafford (QB)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.97,37.403 ]
+    },
+    "properties": {
+    "team":"San Francisco 49ers",
+    "stadium":"Levi's Stadium",
+    "record":"6 wins - 11 losses",
+    "rival":"Seattle Seahawks",
+    "history":"Dominated the 1980s with Joe Montana and won five Super Bowls.",
+    "division":"NFC West",
+    "year":1976,
+    "superbowls":5,
+    "topplayers":"Christian McCaffrey (RB), George Kittle (TE), Fred Warner (LB)"
+    }
+  }
+]
+}
